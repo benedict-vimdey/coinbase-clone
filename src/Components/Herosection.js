@@ -8,7 +8,7 @@ function Herosection() {
         <div className='grid grid-cols-2 mx-auto w-full mt-15 px-6 lg:max-w-6xl pb-10 pt-20'>
             <div className='flex'>
                 <div className='mx-auto my-10'>
-                    <div className='flex'>
+                    <div className='flex cursor-pointer'>
                       <BTC/>
                         <p className='mx-2 font-semibold hover:underline text-blue-800'>
                           Jump Start your portfolio

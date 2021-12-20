@@ -83,6 +83,9 @@ function Earn() {
                      code={item.code}
                     />
                 ))}
+                <div className=' text-blue-700 mt-10 cursor-pointer'>
+                    View More >
+                </div>
             </div>
             </div>
         </div>
