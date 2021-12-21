@@ -84,7 +84,7 @@ function Earn() {
                     />
                 ))}
                 <div className=' text-blue-700 mt-10 cursor-pointer'>
-                    View More >
+                    View More {">"}
                 </div>
             </div>
             </div>
