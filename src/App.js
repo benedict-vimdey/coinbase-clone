@@ -5,6 +5,7 @@ import Table from './Components/Table';
 import Earn from './Components/Earn'
 import PortfolioSec from './Components/PortfolioSec'
 import CryptoPlatform from './Components/CryptoPlatform';
+import BlueBar from './Components/BlueBar';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
      <Earn/>
      <PortfolioSec/>
      <CryptoPlatform/>
+     <BlueBar/>
     </div>
   );
 }
