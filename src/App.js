@@ -6,6 +6,8 @@ import Earn from './Components/Earn'
 import PortfolioSec from './Components/PortfolioSec'
 import CryptoPlatform from './Components/CryptoPlatform';
 import BlueBar from './Components/BlueBar';
+import GetStarted from './Components/GetStarted';
+import StartEarning from './Components/StartEarning';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
      <PortfolioSec/>
      <CryptoPlatform/>
      <BlueBar/>
+     <GetStarted/>
+     <StartEarning/>
     </div>
   );
 }
