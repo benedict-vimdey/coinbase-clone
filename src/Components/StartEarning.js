@@ -6,7 +6,7 @@ function StartEarning() {
         <div className='w-full mx-auto flex justify-between mt-20' style={{backgroundColor: 'rgb(233, 246, 255)'}}>
             <div className=''>
                 <div className=' py-32 px-32 ml-10 max-w-7xl'>
-                    <p className=' font-bold text-3xl ' style={{fontSize:''}}>
+                    <p className=' font-bold text-3xl '>
                       Earn up to $10 worth of <br/> crypto
                     </p>
                     <p className='mt-3 text-sm'>
